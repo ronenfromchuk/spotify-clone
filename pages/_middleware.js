@@ -5,7 +5,7 @@ export async function middleware(req) {
     // Token will exist if user is logged in
     const token = await getToken({ req, secret: process.env.JWT_SECRET });
     const { pathname } = req.nextUrl;
-    const url = req.nextUrl;
+    const url = req.nextUrl.clone();
     // Allow the requests if the following is true...
     // 1) Its a request for next-auth sesison & provider fetching
     // 2) the token exists
