@@ -1,3 +1,10 @@
+🎼 🎵 🎶🎼 🎵 🎶🎼 🎵 🎶🎼 🎵 🎶 SPOTIFY CLONE! 🎼 🎵 🎶🎼 🎵 🎶🎼 🎵 🎶🎼 🎵 🎶🎼 🎵 🎶
+DEPLOYED LIVE WITH VERCEL! ❗❗❗follow❗❗❗ the following instructions to make the spotify clone work 👀
+1. open the url ➡️➡️➡️➡️➡️➡️➡️ 🔗https://spotify-clone-ronenfromchuk.vercel.app/
+2. after signing in, open your spotify with the same account, play some music.
+3. the spotify clone ready with your playlists, enjoy it❗
+4. you can notice how the songs changes & volume line changes on clone & on the original APP real time when playing with it!
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
